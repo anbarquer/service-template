@@ -16,4 +16,3 @@ This project was highly inspirated by `audreyr/cookiecutter-pypackage` project t
 
 * [Cookiecutter](https://github.com/audreyr/cookiecutter)
 * [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage)
-* [Open Sourcing a Python Project the Right Way](https://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
