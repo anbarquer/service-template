@@ -119,6 +119,5 @@ We use [SemVer](http://semver.org/) for versioning. The project is configured wi
 
 * Open source community
 * [License chooser](https://choosealicense.com/)
-* [Open Sourcing a Python Project the Right Way](https://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 * [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
